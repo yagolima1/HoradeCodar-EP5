@@ -58,7 +58,3 @@ Implemente um sistema de caixa eletrônico com as seguintes funcionalidades:
 
 ## Autor
 Este projeto foi desenvolvido como parte de exercícios de prática em programação, proposto pelo Professor Gabriel.
-
----
-
-Se precisar de ajustes ou mais informações, é só me avisar!
