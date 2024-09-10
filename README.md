@@ -3,7 +3,7 @@ dedico este repositório ao provável último episódio da tarefa "Hora de Codar
 
 # OBS: Em breve pretendo fazer um remaster deste episódio.
 
-## Exercícios
+## Exercício
 
 ### Caixa Eletrônico
 
