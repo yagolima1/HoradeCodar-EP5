@@ -24,6 +24,24 @@ let Usuario;
             }
         }
 
+        function SENHA(){
+
+            let senha = parseInt(prompt("Insira sua Senha: "))
+
+            if (senha === 3589){
+
+            alert('Seu saldo atual é de: R$' + saldo_ficticio);
+
+           }
+
+           else{
+
+            alert("Senha Inválida! Tente Novamente.")
+
+        }
+
+    }
+
         function HOME() {
 
             var opçoes = parseInt(prompt('Selecione uma opção: 1) Saldo | 2) Extrato | 3) Saque | 4) Depósito |      5) Transferência | 6) Sair.'));
@@ -31,22 +49,27 @@ let Usuario;
             switch (opçoes) {
 
                 case 1:
+                    SENHA();
                     ver_saldo();
                     break;
 
                 case 2:
+                    SENHA();
                     verExtrato();
                     break;
 
                 case 3:
+                    SENHA();
                     fazer_saque();
                     break;
 
                 case 4:
+                    SENHA();
                     fazer_deposito();
                     break;
 
                 case 5:
+                    SENHA();
                     transferencia();
                     break;
 
@@ -86,21 +109,9 @@ let Usuario;
 
         function ver_saldo() {
 
-            let senha = parseInt(prompt("Insira sua Senha: "))
-
-            if (senha === 3589){
-
             alert('Seu saldo atual é de: R$' + saldo_ficticio);
             HOME();
 
-           }
-
-           else{
-
-            alert("Senha Inválida! Tente Novamente.")
-            ver_saldo();
-
-           }
         }
 
         function fazer_saque() {
@@ -169,11 +180,7 @@ let Usuario;
         }
 
         function verExtrato() {
-
-            let senha = parseInt(prompt("Insira sua Senha: "))
-
-            if (senha === 3589){
-
+                
                 if (extrato.length === 0) {
                     alert("Por enquanto nenhuma ação foi realizada nesta sessão.");
     
@@ -196,15 +203,6 @@ let Usuario;
                 }
 
            }
-
-           else{
-
-            alert("Senha Inválida! Tente Novamente.")
-            ver_saldo();
-
-           }
-
-        }
 
         function transferencia() {
             alert("Contas Fictícias para usar nas Transferências: 1015, 2002 ou as Favoritas");
