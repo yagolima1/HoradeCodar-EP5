@@ -30,7 +30,7 @@ let Usuario;
 
             if (senha === 3589){
 
-            alert('Seu saldo atual é de: R$' + saldo_ficticio);
+            alert("Senha Correta, Acesso Concedido!");
 
            }
 
