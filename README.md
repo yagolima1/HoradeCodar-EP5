@@ -1,5 +1,5 @@
 # HoradeCodar-EP5
-dedico este repositório ao provável último episódio da tarefa "Hora de Codar!" uma grande saga que chegou ao fim, que envolve a implementação de um sistema de caixa eletrônico com diversas funcionalidades e validações.
+dedico este repositório ao provável último episódio da tarefa "Hora de Codar!" uma grande saga que chegou ao fim, ou não... que envolve a implementação de um sistema de caixa eletrônico com diversas funcionalidades e validações.
 
 # OBS: Em breve pretendo fazer um remaster deste episódio.
 
