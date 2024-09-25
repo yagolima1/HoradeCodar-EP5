@@ -3,6 +3,8 @@ dedico este repositório ao provável último episódio da tarefa "Hora de Codar
 
 # OBS: Em breve pretendo fazer um remaster deste episódio.
 
+---
+
 ## Exercício
 
 ### Caixa Eletrônico
@@ -58,3 +60,5 @@ Implemente um sistema de caixa eletrônico com as seguintes funcionalidades:
 
 ## Autor
 Este projeto foi desenvolvido como parte de exercícios de prática em programação, proposto pelo Professor Gabriel.
+
+---
